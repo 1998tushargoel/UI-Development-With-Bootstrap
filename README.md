@@ -12,3 +12,5 @@ Week_One
 (10 May)    Introduction to Bootstrap
 
 (10 May)    Responsive Design and Bootstrap Grid System
+
+(10 May)    Assignment 1
