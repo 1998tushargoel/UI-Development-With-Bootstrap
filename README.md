@@ -14,3 +14,8 @@ Week_One
 (10 May)    Responsive Design and Bootstrap Grid System
 
 (10 May)    Assignment 1
+
+Week_One DONE
+
+Week_Two
+
