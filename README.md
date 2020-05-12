@@ -23,4 +23,8 @@ Week_Two
 
 (12 May)    User Input: Buttons and Forms
 
-(12 May)    
+(12 May)    Displaying Content: Tables and Cards
+
+(12 May)    Images and Media: Images, Thumbnails, Media Objects
+
+(12 May)    Alerting Users: Badges, Alerts, Progress Bars
