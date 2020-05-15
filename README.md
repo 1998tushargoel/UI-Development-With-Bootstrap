@@ -42,3 +42,13 @@ Week_Three START
 (13 May)    Tabs, Pills and Tabbed Navigation
 
 (13 May)    Hide and Seek: Collapse and Accordion
+
+(14 May)    Revealing Content: Tooltips, Popovers and Modals
+
+(14 May)    Carousel
+
+(14 May)    Assignment 3
+
+Week_Three DONE
+
+Week_Four START
