@@ -28,7 +28,7 @@ body {
   padding: 50px 0px 0px 0px;
   z-index: 0;
 }
-.navbardark {
+.navbar-dark {
   background-color: #512DA8;
 }
 .tab-content {
